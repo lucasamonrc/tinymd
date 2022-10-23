@@ -1,7 +1,10 @@
 [package]
 name = "tinymd"
 version = "0.1.0"
+authors = ["Lucas Castro <lucasamonrc@gmail.com>"]
 edition = "2021"
+description = "A tiny markdown compiler from the book Getting Started with Rust."
+homepage = "https://lucasamonrc.dev"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
