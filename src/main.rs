@@ -1,11 +1,3 @@
-// Code for the Fifth Checkpoint
-// Tutorial: https://jesselawson.org/rust/get-started-with-rust-by-building-a-tiny-markdown-compiler/
-//
-// The purpose of this checkpoint is to ensure that you have a complete copy
-// of the code in the tutorial up to the checkpoint. I want you to tinker and
-// explore, but to keep up with the rest of the tutorial, make sure your
-// code matches this checkpoint.
-
 use std::fs::File;
 use std::io::Write;
 use std::io::{BufRead, BufReader};
